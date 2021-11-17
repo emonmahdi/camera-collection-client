@@ -1,0 +1,22 @@
+ 
+.banner{ 
+    background: black;
+    overflow: hidden; 
+    height: 90vh;
+} 
+.hero-text{
+    color:#fff;
+    text-align: left;
+    margin-top: 150px;
+}
+.img{
+    margin-top: 80px;
+}
+@media screen and (max-width:592px){
+    .banner{  
+        height: auto;
+    } 
+    .img img{
+        width: 60%;
+    }
+}

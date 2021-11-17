@@ -1,0 +1,21 @@
+.review{
+    padding:70px 0;
+}
+.review h2{
+    margin-bottom: 50px;
+    font-weight: bold;
+}
+.avater{
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+
+}
+.single-review{
+     margin-bottom: 20px;
+    padding: 20px;
+    
+}
+.single-review p{
+    margin-top: 20px;
+}

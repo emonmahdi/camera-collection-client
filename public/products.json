@@ -1,0 +1,72 @@
+[
+    {
+      "id": 1,
+      "name": "Network Camera",
+      "price": "4900",
+      "description": " Image Sensor 1/3 4MP CMOS Sensor. Resolution 4MP. Effective Pixels 2592*1520. Compression H.265/H.264/JPEG/AVI",
+      "img": "https://i.ibb.co/pz7R7P5/1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Plastic Outdoor Camera",
+      "price": "3000",
+      "description": "Image Sensor 1/ 2.9” CMOS. Max Resolution 1920 x 1080. Effective Pixels 2.0MP. Compression Standard H.265",
+      "img": "https://i.ibb.co/PTsY80K/2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Indoor IR Turret Camera",
+      "price": "1200",
+      "description": "4 in 1 (4 signals switchable TVI/AHD/CVI/CVBS). HD 720p turret camera. Smart IR: up to 20 m IR distance 1 megapixel high performance CMOS",
+      "img": "https://i.ibb.co/wcfNqhx/3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "IR Bullet Camera",
+      "price": "1250",
+      "description": " Image Sensor: 1MP CMOS Image Sensor. Signal System: PAL/NTSC. Effective Pixels: 1296(H)x732(V). Lens M12 ",
+      "img": "https://i.ibb.co/8BJm0B7/4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "IR Fixed Turret Camera",
+      "price": "1300",
+      "description": " HD 720p turret camera. Smart IR: up to 20 m IR distance. Water and dust resistance (IP66). 4 signals switchable TVI/AHD/CVI/CVBS",
+      "img": "https://i.ibb.co/qsH8rMc/5.png"
+    },
+    {
+      "id": 6,
+      "name": "Fixed Mini Bullet Camera",
+      "price": "1350",
+      "description": "HD 720p bullet camera Smart IR: up to 20 m IR distance. Water and dust resistance (IP66). 4 signals switchable TVI/AHD/CVI/CVBS",
+      "img": "https://i.ibb.co/qr34t7h/6.png"
+    },
+    {
+      "id": 7,
+      "name": "IR Eyeball camera",
+      "price": "1425",
+      "description": " Resolution: 2MP .Lens: 3.6mm Fixed. IR Distance: 20m",
+      "img": "https://i.ibb.co/r62MCWG/7.jpg"
+    },
+    {
+      "id": 8,
+      "name": "DOME Camera",
+      "price": "1450",
+      "description": "Sensor: 1/2.7″ CMOS, ICR Lens: 3.6mm. IR Range: Up to 20m",
+      "img": "https://i.ibb.co/8DfCs63/8.jpg"
+    },
+    {
+      "id": 9,
+      "name": "IR Bullet Camera",
+      "price": "2150",
+      "description": "Max. 30fps@1080P. HD and SD output switchable. 3.6mm fixed lens. Smart 20m IR",
+      "img": "https://i.ibb.co/n3pd83m/9.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Water-proof Dome Camera",
+      "price": "1800",
+      "description": "Up to 1000 TVL Resolution. Noise Reduction Function. Support ICR switch. True Day/ Night",
+      "img": "https://i.ibb.co/PQwjx7X/10.jpg"
+    }
+  ]
